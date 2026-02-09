@@ -9,8 +9,7 @@
 
 🎓 I'm **Tejaswi Ramineni**, a final-year **Computer Science Engineering** student at **SRM University, AP**, with a **CGPA of 9.20**.
 
-💻 Passionate about **full-stack development**, problem-solving, and building real-world applications.  
-🤝 Member of the **Coding Club at SRM AP**, actively collaborating on team projects and tech events.  
+💻 Passionate about **full-stack development**, **Generative AI**, problem-solving, and building real-world applications.  
 🌱 Continuously learning and solving problems — 300+ on **LeetCode** and counting!
 
 ---
